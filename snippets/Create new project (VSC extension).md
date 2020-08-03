@@ -12,9 +12,13 @@ You do this by:
 2. searching for the termn "Quarkus" and then 
 3. selecting the *Install* button either in the list pane or the detail window.
 
+After installation (no restart required), go to the *Quarkus Welcome* page (which can manually be opened with *F1*->*Quarkus Welcome*) and click the button *Create Quarkus project*.
+
+Alternatively, enter *F1*->*Generate a Quarkus project*.
+
+Follow the instructions (build tool selection, group, artifact, version, framework/library selection etc.). Either confirm with *Enter* or skip with *Escape*. Finally, select (and perhaps create) a destination folder for the project source code.
 
 
 
-
-NB - The extension's repository release page can be found at https://github.com/redhat-developer/vscode-quarkus/releases.
+NB - The Quarkus' VS Code extension's repository release page can be found at https://github.com/redhat-developer/vscode-quarkus/releases.
 
