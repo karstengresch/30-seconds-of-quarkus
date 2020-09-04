@@ -7,7 +7,7 @@ Scaffolds a Gradle based project structure to start with.
 
 ### Example 1: Minimal
 ```bash
-mvn io.quarkus:quarkus-maven-plugin:1.6.1.Final:create \
+mvn io.quarkus:quarkus-maven-plugin:1.7.2.Final:create \
     -DprojectGroupId=org.acme.service \
     -DprojectArtifactId=hello \
     -DclassName="org.acme.service.hello.HelloResource" \
@@ -18,7 +18,7 @@ mvn io.quarkus:quarkus-maven-plugin:1.6.1.Final:create \
 ### Example 2: All attributes
 
 ```bash
-mvn io.quarkus:quarkus-maven-plugin:1.6.1.Final:create \
+mvn io.quarkus:quarkus-maven-plugin:1.7.2.Final:create \
     -DprojectGroupId=org.acme.service \
     -DprojectArtifactId=hello \
     -DprojectVersion=0.0.1 \

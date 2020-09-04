@@ -16,7 +16,10 @@ After installation (no restart required), go to the *Quarkus Welcome* page (whic
 
 Alternatively, enter *F1*->*Generate a Quarkus project*.
 
-Follow the instructions (build tool selection, group, artifact, version, framework/library selection etc.). Either confirm with *Enter* or skip with *Escape*. Finally, select (and perhaps create) a destination folder for the project source code.
+Follow the instructions (build tool selection, group, artifact, version, framework/library selection etc.). 
+Either confirm with *Enter* or skip with *Escape*. 
+
+Finally, select (and perhaps create) a destination folder for the project source code.
 
 
 
